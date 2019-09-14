@@ -1,4 +1,4 @@
-<h1 align="center">CrossRoad</h1>
+<h1 align="center">공튀기기</h1>
 
 ## 프로젝트 참여자
 
